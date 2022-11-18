@@ -1,4 +1,4 @@
-![Logo](https://amozeshfarsi.ir/wp-content/uploads/edd/2018/09/telegram-bot.jpg)
+<p align="center"><img src="https://amozeshfarsi.ir/wp-content/uploads/edd/2018/09/telegram-bot.jpg"></p>
 
 # ربات تلگرام ساخت دکمه
 
